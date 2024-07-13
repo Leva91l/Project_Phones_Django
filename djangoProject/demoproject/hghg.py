@@ -1,12 +1,10 @@
-import csv
+import json
 
-with open(r'C:\Users\а\Desktop\Python\djangoProject\phones.csv', 'r', encoding='UTF-8') as f:
-    reader = csv.DictReader(f, delimiter=';')
-    for row in reader:
-        # id = row['id']
-        name = row['name']
-        price = row['price']
-        image = row['image']
-        release_date = row['release_date']
-        lte_exist = row['lte_exists']
-        print(name, price)
+def create_book():
+    with open(r'C:\Users\а\Desktop\Python\djangoProject\demoproject\books.json', 'r', encoding='UTF-8') as jsonfile:
+        data = json.load(jsonfile)
+        # print(data)
+        for el in data:
+            x = el['fields']['name']
+            print(x)
+create_book()

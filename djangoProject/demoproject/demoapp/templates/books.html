@@ -6,10 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> О телефоне: </h1>
-    <div style="background-color: white", "font-size: 20px">
-      <p> {{name}} - {{price}} рублей</p>
-      <p> <img src={{image}}></p>
-    </div>
+    Список книг в библиотеке: <br> <br>
+    <p>
+    {%for el in books%}
+    {{ el }} <br> <br>
+    {% endfor %}
+    </p>
 </body>
 </html>

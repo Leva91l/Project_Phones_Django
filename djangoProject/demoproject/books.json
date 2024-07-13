@@ -1,0 +1,137 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Недоросль",
+      "author": "Фонвизин Д.И.",
+      "pub_date": "2020-11-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Путешествие из Петербурга в Москву",
+      "author": "Радищев А.Н.",
+      "pub_date": "2013-02-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Бедная Лиза",
+      "author": "Карамзин Н.М.",
+      "pub_date": "2017-02-03"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Горе от ума",
+      "author": "Грибоедов А.С.",
+      "pub_date": "2010-07-13"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Мильон терзаний",
+      "author": "Гончаров И.А.",
+      "pub_date": "2018-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Евгений Онегин",
+      "author": "Пушкин А.С.",
+      "pub_date": "2009-05-08"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Герой нашего времени",
+      "author": "Лермонтов М.Ю.",
+      "pub_date": "2019-10-23"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Мертвые души",
+      "author": "Гоголь Н.В.",
+      "pub_date": "2014-10-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Первая любовь",
+      "author": "Тургенев И.С.",
+      "pub_date": "2018-03-23"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Бедность не порок",
+      "author": "Островский A.H",
+      "pub_date": "2014-11-30"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Юность",
+      "author": "Толстой Л.Н.",
+      "pub_date": "2011-01-07"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Белые ночи",
+      "author": "Достоевский Ф.М.",
+      "pub_date": "2022-08-30"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Анна на шее",
+      "author": "Чехов А.П.",
+      "pub_date": "2023-07-16"
+    }
+  }
+]
